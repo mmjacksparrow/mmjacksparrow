@@ -21,7 +21,7 @@ My strength lies in combining **real-world QA & data testing experience** with *
 - Retrieval-Augmented Generation (RAG)
 - LangChain
 - Prompt Engineering
-- Vector Databases (FAISS / Chroma)
+- Vector Databases (Pinecone / Chroma)
 - LLM Evaluation & Hallucination Testing
 
 ### Testing & Automation
